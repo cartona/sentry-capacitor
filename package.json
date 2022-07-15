@@ -64,9 +64,9 @@
     "promise": "^8.1.0"
   },
   "devDependencies": {
-    "@capacitor/android": "4.0.0-beta.2",
-    "@capacitor/core": "4.0.0-beta.2",
-    "@capacitor/ios": "4.0.0-beta.2",
+    "@capacitor/android": "^4.0.0-beta.2",
+    "@capacitor/core": "^4.0.0-beta.2",
+    "@capacitor/ios": "^4.0.0-beta.2",
     "@ionic/prettier-config": "^1.0.0",
     "@sentry-internal/eslint-config-sdk": "7.6.0",
     "@sentry-internal/eslint-plugin-sdk": "7.6.0",
