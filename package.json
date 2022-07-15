@@ -13,9 +13,9 @@
   "scripts": {
     "postinstall": "yarn run clean && yarn run build:all",
     "build:all": "yarn run build:esm && yarn run build:es5",
-    "build:esm": "yarn run tsc -p tsconfig.esm.json",
-    "build:es5": "yarn run tsc -p tsconfig.build.json",
-    "watch": "yarn run tsc --watch",
+    "build:esm": "tsc -p tsconfig.esm.json",
+    "build:es5": "tsc -p tsconfig.build.json",
+    "watch": "tsc --watch",
     "clean": "rimraf -rf ./dist ./coverage",
     "test": "jest",
     "test:watch": "jest --watch",
