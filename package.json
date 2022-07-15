@@ -16,7 +16,7 @@
     "build:esm": "tsc -p tsconfig.esm.json",
     "build:es5": "tsc -p tsconfig.build.json",
     "watch": "tsc --watch",
-    "clean": "rimraf -rf ./dist ./coverage",
+    "clean": "rm -rf ./dist ./coverage",
     "test": "jest",
     "test:watch": "jest --watch",
     "lint": "eslint .",
