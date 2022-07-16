@@ -86,7 +86,10 @@
     "dist/",
     "ios/",
     "android/",
-    "SentryCapacitor.podspec"
+    "SentryCapacitor.podspec",
+    "tsconfig.build.json",
+    "tsconfig.esm.json",
+    "tsconfig.json"
   ],
   "capacitor": {
     "ios": {
