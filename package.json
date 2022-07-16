@@ -89,7 +89,8 @@
     "SentryCapacitor.podspec",
     "tsconfig.build.json",
     "tsconfig.esm.json",
-    "tsconfig.json"
+    "tsconfig.json",
+    "src/"
   ],
   "capacitor": {
     "ios": {
