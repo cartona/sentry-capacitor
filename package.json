@@ -36,10 +36,10 @@
   "author": "Sentry Team and Contributors",
   "license": "MIT",
   "peerDependencies": {
-    "@capacitor/core": "4.0.0-beta.2",
-    "@sentry/angular": "7.7.0",
-    "@sentry/react": "7.7.0",
-    "@sentry/vue": "7.7.0"
+    "@capacitor/core": "4.0.1",
+    "@sentry/angular": "7.8.0",
+    "@sentry/react": "7.8.0",
+    "@sentry/vue": "7.8.0"
   },
   "peerDependenciesMeta": {
     "@sentry/angular": {
@@ -53,23 +53,23 @@
     }
   },
   "dependencies": {
-    "@sentry/browser": "7.7.0",
-    "@sentry/core": "7.7.0",
-    "@sentry/hub": "7.7.0",
-    "@sentry/integrations": "7.7.0",
-    "@sentry/tracing": "7.7.0",
-    "@sentry/types": "7.7.0",
-    "@sentry/utils": "7.7.0",
+    "@sentry/browser": "7.8.0",
+    "@sentry/core": "7.8.0",
+    "@sentry/hub": "7.8.0",
+    "@sentry/integrations": "7.8.0",
+    "@sentry/tracing": "7.8.0",
+    "@sentry/types": "7.8.0",
+    "@sentry/utils": "7.8.0",
     "@sentry/wizard": "^1.1.4",
     "promise": "^8.1.0"
   },
   "devDependencies": {
-    "@capacitor/android": "^4.0.0-beta.2",
-    "@capacitor/core": "^4.0.0-beta.2",
-    "@capacitor/ios": "^4.0.0-beta.2",
+    "@capacitor/android": "^4.0.1",
+    "@capacitor/core": "^4.0.1",
+    "@capacitor/ios": "^4.0.1",
     "@ionic/prettier-config": "^1.0.0",
-    "@sentry-internal/eslint-config-sdk": "7.7.0",
-    "@sentry-internal/eslint-plugin-sdk": "7.7.0",
+    "@sentry-internal/eslint-config-sdk": "7.8.0",
+    "@sentry-internal/eslint-plugin-sdk": "7.8.0",
     "@sentry/typescript": "5.20.1",
     "@types/jest": "^26.0.15",
     "eslint": "^7.13.0",
